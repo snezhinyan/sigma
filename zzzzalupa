@@ -1,0 +1,3 @@
+database.append[stats]
+if stats[0] = '3':
+    leaderbord.append[stats]
