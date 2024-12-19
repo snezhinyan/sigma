@@ -1,0 +1,15 @@
+from PyQt5 import QPushButton
+
+def Pomosh_Zala():
+    answer = int(input("users_answers"))
+    
+def Pyatdesyat_Na_Pyatdesyat():
+    answer = int(input("incorrect_answer", "correct_answer")
+
+def Pomenyat_Vopros():
+    print("next_question")
+    answer = int(input(questions(answers))
+    
+PZButton.clicked.connect(Pomosh_Zala)
+PNPButton.clicked.connect(Pyatdesyat_Na_Pyatdesyat)
+PVButton.clicked.connect(Pomenyat_Vorpos)
